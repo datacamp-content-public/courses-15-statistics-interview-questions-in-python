@@ -1,49 +1,9 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Statistical Experiments'
+description: 'More commonly referred to as A/B tests, statistical experiments compare the outcomes of applying one or more treatments to experimental units.'
 ---
 
-## Example coding exercise
-
-```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
-```
-
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## Concept Name
+## Power and Sample Size
 
 ```yaml
 type: VideoExercise
