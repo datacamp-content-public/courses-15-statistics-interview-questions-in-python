@@ -3,7 +3,7 @@ title: 'Statistical Experiments'
 description: 'More commonly referred to as A/B tests, statistical experiments compare the outcomes of applying one or more treatments to experimental units.'
 ---
 
-## Power and Sample Size
+## Q9: How do you calculate needed sample size?
 
 ```yaml
 type: VideoExercise
